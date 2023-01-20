@@ -1,4 +1,4 @@
-# teste-api
+# Pokédex
 
 ## Project setup
 ```
