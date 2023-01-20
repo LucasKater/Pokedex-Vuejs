@@ -1,5 +1,7 @@
 ### Pokédex desenvolvido utilizando HTML, CSS, JavaScript e Vuejs
 
+Link visualizar projeto: https://pokedex-vuejs-lucas.netlify.app/#/
+
 ![Screenshot_10](https://user-images.githubusercontent.com/113481857/213607168-e000f291-85cb-4715-82b5-67626d8384c7.png)
 
 ![Screenshot_11](https://user-images.githubusercontent.com/113481857/213607289-246f6ae7-11bd-4b50-8515-a946192f475b.png)
