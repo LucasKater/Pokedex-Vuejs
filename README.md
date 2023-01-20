@@ -1,5 +1,3 @@
-### Pokédex
-
 ### Pokédex desenvolvido utilizando HTML, CSS, JavaScript e Vuejs
 
 ![Screenshot_10](https://user-images.githubusercontent.com/113481857/213607168-e000f291-85cb-4715-82b5-67626d8384c7.png)
